@@ -1,4 +1,4 @@
 # stack-question-fetch
 
 For Live Demo:
-https://codesandbox.io/s/vigorous-sara-4kbtq
+Go to https://codesandbox.io/s/vigorous-sara-4kbtq & click on 'Open in New Window' Icon.
